@@ -1,2 +1,2 @@
 # wpu-cita-cita
-Repositori untuk menyimpan cita - cita
+Repository untuk menyimpan cita - cita
